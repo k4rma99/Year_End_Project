@@ -1,0 +1,29 @@
+Reported On: 24/01/2020 09:34 PM
+
+Beta-2-Microglobulin 4915.00 ng/mL(High) 
+Normal: 670-2143
+(Serum,CLIA)
+
+Interpretation :
+
+1. Beta-2-microglobulin (beta-2-M) is a small membrane protein associated with the heavy chains of class | HLA proteins and
+
+hence is present on the surface of all nucleated cells.
+
+2. Serum beta-2-microglobulin levels are elevated in diseases associated with increased cell turnover with Several benign
+conditions such as chronic systemic inflammation, liver disease, renal dysfunction, some acute viral infections .
+
+3. Malignancies, especially hematologic malignancies associated with the B-lymphocyte lineage & plasma cell disorders.In
+multiple myeloma, beta-2-microglobulin is considered as a powerful prognostic factor.
+
+-- End of Report -- 
+
+@highlight
+Reported On: 24/01/2020 09:34 PM
+
+@highlight
+Beta-2-Microglobulin 4915.00 ng/mL(High)
+
+@highlight
+(Serum,CLIA)
+

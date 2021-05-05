@@ -1,0 +1,48 @@
+Reported On:24/01/2020 09:34 PM
+
+Immunofixation-quantitative Serum
+
+Kappa And Lambda-Freelite Serum (Serum)
+
+Free Kappa (Light Chain)(Nephelometry), Observed: 69.20 mg/L(High )
+Normal: 3.3-19.4
+
+Free Lambda (Light Chain)(Nephelometry), Observed: 38.00 mg/L(High)
+Normal: 5.71-26.3
+
+Free Kappa/ Lambda Ratio, Observed: 1.82(High) 
+Normal: 0.26-1.65
+(In cases with renal impairment
+suggested reference interval
+0.37 to 3.1)
+
+Interpretation:
+
+1. Increased production of monoclonal immunoglobulins or free monoclonal light chains leads to a change in the k/lambda light
+chain quotient. A k/lambda quotient outside the reference interval is thus an indication of the existence of a monoclonal
+gammopathy.
+2. Serum light chains are also dependent upon several factors like the type of clonality, presence of associated renal failure or
+polyclonal hypergammaglobulinaemia and thedegree of bone marrow Impairment from the growing tumour or from drug therapy. These factors should be considered during interpretation .
+3. Following are the recommendations as per the International Myeloma Working Group (IMWG)-: guidelines for serum free
+light chain analysis & interpretation in multiple myeloma and related disorders-
+
+* Use of free light chain ratio (rFLC) in combination of serum protein electrophoresis & immunofixation for diagnosis
+
+* Use of involved free light chain (iFLC) quantitation or the difference between the involved & uninvolved serum light chains (dFLC)
+for serial measurements during monitoring & to define complete response. During monitoring the ratio (rFLC) can be unreliable due
+to associated fluctuations in the concentration of uninvolved light chains and renal failure.
+
+@highlight
+Reported On:24/01/2020 09:34 PM
+
+@highlight
+Kappa And Lambda-Freelite Serum (Serum)
+
+@highlight
+Free Kappa (Light Chain)(Nephelometry), Observed: 69.20 mg/L(High )
+
+@highlight
+Free Lambda (Light Chain)(Nephelometry), Observed: 38.00 mg/L(High)
+
+@highlight
+Free Kappa/ Lambda Ratio, Observed: 1.82(High)

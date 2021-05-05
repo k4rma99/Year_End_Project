@@ -1,0 +1,63 @@
+Received: 23 Jan 2020 15:51 
+Specimen: Dried Blood Spot (DBS)
+LABORATORY REPORT FOR NEWBORN SCREENING TEST
+
+G6PD Deficiency (FEA) Within Normal Limits
+Glucose-6-Phosphate Dehydrogenase (G6PD)
+Normal: > 2 U/gHb Deficient: < 2 U/gHb -
+G6PD Enzyme Activity =9.61 U/gHb
+
+Congenital Adrenal Hyperplasia (FEIA) Within Normal Limits
+17-hydroxyprogesterone (17-OHP) .
+Normal: < 20 ng/mL High: > 20 ng/mL * 
+17-OHP = 1.98 ng/mL
+
+Galactosemia (Fluorimetry) Within Normal Limits
+Total Galactose (TGAL) .
+Normal: < 10 mg/dL High: > 10 mg/dL 
+TGAL = 2.29 mg/dL
+
+Congenital Hypothyroidism (FEIA) Within Normal Limits
+Thyroid Stimulating Hormone (TSH)
+Normal: < 10 ylU/mL High: > 10 ylU/mL 
+TSH < 3.1 plU/mL
+
+Biotinidase Deficiency (FEA) : Within Normal Limits
+Biotinidase (BIOT)
+Normal: > 40 U Deficient: < 40 U 
+Biotinidase Enzyme Activity = 217.23 U
+
+Phenylketonuria (PKU) (Fluorimetry) : Within Normal Limit
+Amino Acid Disorder
+Normal: < 120 uM High: > 120 uM 
+Phenylalanine < 44 iM
+
+NOTES:
+Biochemical screen only.
+
+@highlight
+Received: 23 Jan 2020 15:51 
+
+@highlight
+Specimen: Dried Blood Spot (DBS)
+
+@highlight
+LABORATORY REPORT FOR NEWBORN SCREENING TEST
+
+@highlight
+G6PD Deficiency (FEA) Within Normal Limits
+
+@highlight
+Galactosemia (Fluorimetry) Within Normal Limits
+
+@highlight
+Congenital Adrenal Hyperplasia (FEIA) Within Normal Limits
+
+@highlight
+Congenital Hypothyroidism (FEIA) Within Normal Limits
+
+@highlight
+Biotinidase Deficiency (FEA) : Within Normal Limits
+
+@highlight
+Phenylketonuria (PKU) (Fluorimetry) : Within Normal Limit

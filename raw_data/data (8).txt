@@ -1,0 +1,84 @@
+Date of Scan: 43-Jul-2018
+
+CT - WHOLE ABDOMEN (CONTRAST)
+
+STUDY PROTOCOL:
+Axial 5 mm cuts were obtained from the diaphragm down to the symphysis, and these were repeated during the dynamic intravenous administration of 60 cc Iohexol 350.
+
+FINDINGS:
+
+The liver is normal sized, with smooth borders and normal attenuation values. No focal abnormalities are seen.
+There is no intra or extra-hepatic biliary dilatation.
+The common bile duct and the ampulla of Vater appear normal sized.
+
+The gall bladder is normal sized and smooth walled.
+No radiodense calculus is seen in it.
+There is no pericholecystic fluid.
+
+The pancreas presents normal size and smooth borders.
+The parenchyma shows normal internal structure and attenuation values with no hypo or hyperdense intra-pancreatic changes.
+No significant ductal dilatation or calcification is seen.
+Peripancreatic fat planes are preserved.
+The portal vein and superior mesenteric vessels appear normal with no suggestion of filling defect within.
+The spleen is of normal size. It has smooth outer contour and a homogeneous internal structure.
+
+There is dilatation of the distal thoracic and proximal abdominal aorta measuring 4.5 cm in caliber for a length of 4 cm.
+Rest of the aorta is normal.
+
+The diaphragmatic crurae are normal with no obvious evidence of diaphragmatic defects.
+The gastro-oesophageal junction is normal.
+The stomach and intestines show normal configuration.
+No bowel wall thickening or dilatation is seen.
+Mesenteric fat appears normal.
+
+Both adrenal glands are normal sized and show normal configuration and density of their limbs.
+Both kidneys appear normal in size and position, with normal width and density of renal parenchyma.
+
+The calyces are of normal shape. The renal pelvis is normal and free of stones, and there is no obstruction of urinary drainage.
+Contrast - enhanced scans show normal cortical enhancement and symmetrical contrast excretion into the renal pelves with no filling defects.
+The ureters are not dilated.
+The perirenal and pararenal spaces are unremarkable.
+
+No retroperitoneal or mesenteric lymphadenopathy is seen.
+There is no free or loculated peritoneal fluid collection.
+
+The pelvic inlet appears normal, with normal configuration of the iliac wings and iliopsoas muscles.
+The bladder shows smooth outer contours and normal wall thickness.
+No intravesical mass or calculus is seen.
+
+The prostate is normal.
+
+The rectal and pararectal tissue planes are normal.
+No abnormality of the vertebral column or the bony pelvis is seen.
+
+The screened lung shows patchy consolidation in the right lower lobe.
+
+IMPRESSION:
+ANEURYSMAL DILATION OF DISTAL THORACIC AND PROXIMAL ABDOMINAL AORTA. NO THROMBUS WITHIN.
+NO EVIDENCE OF PHAECHROMOCYTOMA OR OTHER SPACE OCCUPYING LESIONS IN THE ABDOMEN.
+CONSOLIDATION OF THE RIGHT BASAL LUNG.
+
+Please correlate clinically.
+
+
+@highlight
+Date of Scan: 43-Jul-2018
+
+@highlight
+CT - WHOLE ABDOMEN (CONTRAST)
+
+@highlight
+STUDY PROTOCOL:
+Axial 5 mm cuts were obtained from the diaphragm down to the symphysis, and these were repeated during the dynamic intravenous administration of 60 cc Iohexol 350.
+
+@highlight
+There is dilatation of the distal thoracic and proximal abdominal aorta measuring 4.5 cm in caliber for a length of 4 cm. Rest of the aorta is normal.
+
+@highlight
+ANEURYSMAL DILATION OF DISTAL THORACIC AND PROXIMAL ABDOMINAL AORTA. NO THROMBUS WITHIN.
+
+@highlight
+NO EVIDENCE OF PHAECHROMOCYTOMA OR OTHER SPACE OCCUPYING LESIONS IN THE ABDOMEN.
+
+@highlight
+CONSOLIDATION OF THE RIGHT BASAL LUNG.

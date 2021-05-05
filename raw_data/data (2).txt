@@ -1,0 +1,53 @@
+Reported On: 24/01/2020 09:34 PM
+
+Immunofixation- Qualitative, Serum
+
+(Serum)
+Electrophoretic Zone
+IgG Present
+IgM Absent 
+IgA Absent
+Kappa Present
+Lambda Absent
+
+Impression: FAINT BAND SEEN IN IgG AND KAPPA REGION . KINDLY
+CORRELATE WITH CLINICAL AND RADIOLOGICAL FINDINGS.
+
+Associated Tests: Cytogenetic markers for Prognostication of Multiple Myeloma is available (Multiple Myeloma. by FISH Panel -.
+IGH gene rearrangement [t(11;14),t(4;14),t(14;16)] translocations, monosomy 13/deletion 13q14, deletion 11q, deletion 17p,
+chromosome 1p/q deletion/amplification ploidy status for chromosome 5,9 and 15) at Metropolis. Healthcare,
+
+@highlight
+Reported On: 24/01/2020 09:34 PM
+
+@highlight
+Immunofixation- Qualitative, Serum
+
+@highlight
+Electrophoretic Zone
+
+@highlight
+IgG Present
+
+@highlight
+IgM Absent 
+
+@highlight
+IgA Absent
+
+@highlight
+Kappa Present
+
+@highlight
+Lambda Absent
+
+@highlight
+Impression: FAINT BAND SEEN IN IgG AND KAPPA REGION . 
+
+@highlight
+KINDLY CORRELATE WITH CLINICAL AND RADIOLOGICAL FINDINGS.
+
+
+
+
+

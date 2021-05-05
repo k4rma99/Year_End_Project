@@ -1,0 +1,74 @@
+Visit Date 23/07/2018
+
+ULTRASOUND ABDOMEN & PELVIS
+(Trans abdominal study - B mode and colour doppler imaging done using 3-SMHz transducer and ACUSON S2000 Ultrasound system)
+
+Liver : Normal in size (12cm) with mildly increased echotexture.
+A round well-defined hypoechoic lesion measuring approximately 27 x 26 mm noted in right lobe.
+No evidence of intrahepatic biliary radicles dilatation.
+
+CBD : Normal
+
+PV : Normal
+
+Gallbladder : Partially distended.
+No evident calculus noted.
+GB wall is within normal limits.
+
+Spleen : Is normal in size (8cm), shape and echotexture.
+No evident focal lesion.
+
+Pancreas : Head and body of pancreas appear normal sonographically.
+
+Kidneys : Bilateral renal cortical echoes mildly raised(L>R).
+CMD maintained.
+No evidence of hydronephrosis seen.
+Right kidney measures 10 x 4.3 cm.
+A small cortical cyst measuring 8 x 7 mm noted in mid pole.
+Left kidney appears smaller in size and measures 7.2 x 3.6 cm.
+A calculus measuring 3 mm noted in lower pole.
+A cortical cyst measuring 10 x 10 mm noted in mid pole.
+
+Urinary bladder : Minimally distended.
+Prevoid volume-70cc.
+Post void residual urine volume-20cc (insignificant).
+
+Prostate : Mildly enlarged in size.
+Measures 2.8 x 3.8 x 4.9 cm and has an approximate volume of 28cc.
+
+No free fluid is noted in abdomen and pelvis.
+No evidence of para-aortic lymphadenopathy noted.
+No evidence of pleural effusion is noted.
+
+OPINION:-
+Smaller left kidney with bilateral raised renal cortical echoes (L>R)- Renal parenchymal disease to be considered. Suggested correlation with serum-creatinine.
+Left renal calculus.
+Small bilateral renal simple cortical cysts.
+Mild Prostatomegaly.
+Grade I fatty change liver. Well-defined hypoechoic lesion in right lobe of liver as described. Suggested CECT abdomen for further evaluation.
+
+
+@highlight
+Visit Date 23/07/2018
+
+@highlight
+ULTRASOUND ABDOMEN & PELVIS
+(Trans abdominal study - B mode and colour doppler imaging done using 3-SMHz transducer and ACUSON S2000 Ultrasound system)
+
+@highlight
+Smaller left kidney with bilateral raised renal cortical echoes (L>R)- Renal parenchymal disease to be considered.
+Suggested correlation with serum-creatinine.
+
+@highlight
+Left renal calculus.
+
+@highlight
+Small bilateral renal simple cortical cysts.
+
+@highlight
+Mild Prostatomegaly.
+
+@highlight
+Grade I fatty change liver.
+Well-defined hypoechoic lesion in right lobe of liver as described.
+Suggested CECT abdomen for further evaluation.

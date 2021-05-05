@@ -1,0 +1,103 @@
+Study Date: 27-Jul-2018
+
+MRI ABDOMEN
+
+Clinical information: Mild renal failure.
+
+Technique: T2 HASTE axial coronal, T2 TSE axial, coronal, inphase, opposed phase, T2 FS axial, DW with ADC, T1 axial VIBE with post contrast study performed.
+
+Findings:
+
+Liver shows normal size.
+No evidence of volume redistribution.
+Caudate lobe is mild prominent.
+Signal fat fraction is 2.5 %. 3.1 x 2.6 cm 72 mild hyperintense lesion with mild diffusion restriction and central scar noted segment 6 / 7 with heterogeneous enhancement in arterial phase, washout in venous phase with capsular enhancement.
+The lesion is abutting the posterior segmental branch of right portal vein.
+Tiny cyst noted adjacent to the IVC.
+There is no intra or extra hepatic biliary dilatation.
+Hepatic vasculature is normal.
+Small pericholedochal nodes noted.
+
+Gall bladder show minimal distension with nonspecific wall thickening.
+No gall stones.
+
+Spleen bulky.
+
+Pancreas is normal in morphology and signal intensity.
+Main pancreatic duct is normal in caliber.
+
+Both adrenal glands are unremarkable.
+Right kidney measures 9.0 cm and left kidney measures 7.0 cm.
+Tiny cortical cysts noted both sides, one of the cyst in the left kidney mid pole shows T1 hyperintense content.
+(Ultrasound correlation show increase in cortical echotexture with accentuated cortico medullary differentiation).
+
+GE junction shows widening.
+
+Aorta show atherosclerotic changes.
+
+No paraaortic or significant pelvic adenopathy.
+
+Small hemangioma noted D12 and L3 vertebra.
+No focal enhancing marrow lesion noted.
+Few hyperintense areas noted in the left lateral aspect of rib with diffusion restriction.
+
+Marrow shows normal signal.
+
+IMPRESSION:
+
+Approximately 3.1 x 2.6.cm lesion with central scar segment 6 / 7 with heterogeneous enhancement in arterial phase, washout in venous phase with capsular enhancement.
+The lesion is abutting the posterior segmental branch of right portal vein.
+
+No portal vein thrombosis.
+
+Normal sized liver with prominent caudate lobe. No left lobe hypertrophy.
+
+Bulky spleen.
+
+No free fluid.
+
+Hiatus hernia.
+
+No significant paraaortic or pelvic lymphadenopathy.
+
+MRI features highly suggest malignant lesion like hepatocellular carcinoma.
+Suggest correlation with AFP.
+FNAC for confirmation.
+
+
+@highlight
+Study Date: 27-Jul-2018
+
+@highlight
+MRI ABDOMEN
+
+@highlight
+Clinical information: Mild renal failure.
+
+@highlight
+Technique: T2 HASTE axial coronal, T2 TSE axial, coronal, inphase, opposed phase, T2 FS axial, DW with ADC, T1 axial VIBE with post contrast study performed.
+
+@highlight
+Approximately 3.1 x 2.6.cm lesion with central scar segment 6 / 7 with heterogeneous enhancement in arterial phase, washout in venous phase with capsular enhancement.
+The lesion is abutting the posterior segmental branch of right portal vein.
+
+@highlight
+No portal vein thrombosis.
+
+@highlight
+Normal sized liver with prominent caudate lobe. No left lobe hypertrophy.
+
+@highlight
+Bulky spleen.
+
+@highlight
+No free fluid.
+
+@highlight
+Hiatus hernia.
+
+@highlight
+No significant paraaortic or pelvic lymphadenopathy.
+
+@highlight
+MRI features highly suggest malignant lesion like hepatocellular carcinoma.

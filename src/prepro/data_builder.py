@@ -333,33 +333,50 @@ def _format_to_bert(params):
 
 
 def format_to_lines(args):
-    #corpus_mapping = {}
-    #for corpus_type in ['valid', 'test', 'train']:
-    #    temp = []
-    #    for line in open(pjoin(args.map_path, 'mapping_' + corpus_type + '.txt')):
-    #        temp.append(hashhex(line.strip()))
-    #    corpus_mapping[corpus_type] = {key.strip(): 1 for key in temp}
-    #train_files, valid_files, test_files = [], [], []
-    #for f in glob.glob(pjoin(args.raw_path, '*.json')):
-    #    real_name = f.split('/')[-1].split('.')[0]
-    #    if (real_name in corpus_mapping['valid']):
-    #        valid_files.append(f)
-    #    elif (real_name in corpus_mapping['test']):
-    #        test_files.append(f)
-    #    elif (real_name in corpus_mapping['train']):
-    #        train_files.append(f)
-        # else:
-        #     train_files.append(f)
+    # path =  os.getcwd() + "\\..\\json_data\\*.txt.json"
+    # own_files = glob.glob(path)
+    # for corpus_type in ['train', 'valid', 'test']:
+    #     a_lst = [(f, args) for f in own_files]
+    #     pool = Pool(args.n_cpus)
+    #     dataset = []
+    #     p_ct = 0
+    #     for d in pool.imap_unordered(_format_to_lines, a_lst):
+    #         dataset.append(d)
+    #         if (len(dataset) > args.shard_size):
+    #             pt_file = "{:s}.{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
+    #             with open(pt_file, 'w') as save:
+    #                 # save.write('\n'.join(dataset))
+    #                 save.write(json.dumps(dataset))
+    #                 p_ct += 1
+    #                 dataset = []
 
-   # corpora = {'train': train_files, 'valid': valid_files, 'test': test_files}
-
-   #diozz
-    
-    #own_files=[os.getcwd() + "\\..\\json_data\\1.txt.json"]
+    #     pool.close()
+    #     pool.join()
+    #     if (len(dataset) > 0):
+    #         pt_file = "{:s}.{:s}.{:d}.json".format(args.save_path, corpus_type, p_ct)
+    #         with open(pt_file, 'w') as save:
+    #             # save.write('\n'.join(dataset))
+    #             save.write(json.dumps(dataset))
+    #             p_ct += 1
+    #             dataset = []
     path =  os.getcwd() + "\\..\\json_data\\*.txt.json"
     own_files = glob.glob(path)
-    for corpus_type in ['train', 'valid', 'test']:
-        a_lst = [(f, args) for f in own_files]
+    ctr = -1
+    train = []
+    valid = []
+    test = []
+    
+    for f in own_files:
+        ctr+=1
+        if ctr<24:
+            train.append(f)
+        elif 24<=ctr<27:
+            valid.append(f)
+        else:
+            test.append(f)
+    
+    def split(files,corpus_type):
+        a_lst = [(f, args) for f in files]
         pool = Pool(args.n_cpus)
         dataset = []
         p_ct = 0
@@ -382,6 +399,13 @@ def format_to_lines(args):
                 save.write(json.dumps(dataset))
                 p_ct += 1
                 dataset = []
+
+    split(train,"train")
+    split(valid,"valid")
+    split(test,"test")
+
+    print(len(train),len(valid),len(test))
+
 
 
 def _format_to_lines(params):

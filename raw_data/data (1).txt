@@ -1,0 +1,42 @@
+Reported On:
+24/01/2020 09:34 PM
+
+Immunofixation-quantitative Serum
+
+Immunoglobulin Profile IgG, IgM and IgA, Serum
+(Serum,Nephelometry)
+
+IgG Total, Observed: 1120.00 mg/dL(Normal)
+Biological reference interval: 700-1600
+
+IgA Total, Observed: 163.00 mg/dL(Normal) 
+Biological reference interval: 70-400
+
+IgM total, Observed: 85.40 mg/dL(Normal) 
+Biological reference interval:40-230
+
+Interpretation :
+1.
+
+Decreased levels are seen in primary immunodeficiency conditions and in secondary immune insufficiencies like advanced
+malignant tumours, lymphatic leukemias, multiple myeloma and Waldenstrom�s disease.
+
+Increased concentrations occur due to polyclonal or oligoclonal immunoglobulin proliferations seen in hepatic disease,
+acute/chronic infections and autoimmune disease.
+
+@highlight:
+Reported On:
+24/01/2020 09:34 PM
+
+@highlight
+Immunoglobulin Profile IgG, IgM and IgA, Serum
+(Serum,Nephelometry)
+
+@highlight
+IgG Total, Observed: 1120.00 mg/dL(Normal)
+
+@highlight
+IgA Total, Observed: 163.00 mg/dL(Normal) 
+
+@highlight
+IgM total, Observed: 85.40 mg/dL(Normal) 

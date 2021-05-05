@@ -1,0 +1,79 @@
+PLAIN & CONTRAST HELICAL CT SECTIONS OF ABDOMEN
+
+Date 30-07-2018
+
+CT - SCAN REPORT
+[ Plain & Contrast CT Abdomen was done in multislice CT scanner ( 32 Slice ) ]
+
+* The liver appears normal in size, shape and attenuation. No focal lesion is seen within. No [HBRD.
+
+* The GB is distended & appears normal. No mass/ calculus noted. CBD is not dilated.
+
+* Spleen show normal size & attenuation. No diffuse or focal lesion seen.
+
+* Pancreas is normal. PD not dilated. No calcification. Peripancreatic fat planes are clear.
+
+* Bilateral adrenals appear normal.
+
+* Both kidneys appear normal in size, shape and contrast enhancement. No hydroureteronephrosis / calculus noted on either side.
+
+* The urinary bladder appears normal.
+
+* Large intraluminal soft tissue density lesion measuring about 3.4 x 3.8 x 4.6cm(CC x AP xT ) seen within the caecum towards the inferomedial aspect extending up to the IC junction with tiny calcific specks.
+Associated exophytic component also noted which is seen abutting the terminal ileal loops with loss of intervening fat planes.
+Post contrast study show mild heterogeneous enhancement of the lesion with non-enhancing areas of necrosis.
+
+* Few small enhancing lymphnodes seen in the RIF mesentery. Mild mesenteric fat stranding also noted.
+
+* Appendix could not be visualized.
+
+* Another well - defined partly calcified hypodense lesion measuring about 3.8 x 2.9 x 4.4cm(CC x APx T ) noted in the right periumbilical region. The lesion is seen abutting the duodenum at D2 - D3 junction.
+
+* The stomach, rest of the duodenum & small bowel loops reveal no obvious abnormality.
+
+* Rest of the large bowel loops reveal no obvious abnormality.
+
+* No abnormal bowel wall thickening / enhancement seen elsewhere.
+
+* No free fluid in abdomen and pelvis.
+
+* Uterus and ovaries not visualized - H/o Surgery. No adnexal pathology noted.
+
+* The lumbar spine & visualized pelvic bones reveal no obvious abnormality.
+
+* Lower thoracic sections reveal tiny ground glass nodules in lateral basal segment of right lower lobe.
+
+CONCLUSION :-
+
+* Large intraluminal soft tissue density lesion within the caecum towards the inferomedial aspect extending up to the IC junction with associated exophytic component abutting the terminal ileal loops with loss of intervening fat planes.
+Post contrast study show mild heterogeneous enhancement of the lesion with non-enhancing areas of necrosis.
+Tiny calcific speck seen within the lesion
+- Above imaging features are more in favour of Malignant caecal neoplasm with exophytic component & infiltration of the terminal ileal loops ( Correlate with biopsy and HPR ).
+
+* Few small enhancing lymph nodes in RIF mesentery - Likely to be Metastatic.
+
+* Another well - defined partly calcified mesenteric hypodense lesion in the right periumbilical region abutting the duodenum at D2 - D3 junction- Possibly Calcified metastatic lymph node mass.
+
+* Tiny ground glass nodules in lateral basal segment of right lower lobe - Metastasis needs to be ruled out.
+
+
+@highlight
+PLAIN & CONTRAST HELICAL CT SECTIONS OF ABDOMEN
+
+@highlight
+Date 30-07-2018
+
+@highlight
+* Large intraluminal soft tissue density lesion within the caecum towards the inferomedial aspect extending up to the IC junction with associated exophytic component abutting the terminal ileal loops with loss of intervening fat planes.
+Post contrast study show mild heterogeneous enhancement of the lesion with non-enhancing areas of necrosis.
+Tiny calcific speck seen within the lesion
+- Above imaging features are more in favour of Malignant caecal neoplasm with exophytic component & infiltration of the terminal ileal loops ( Correlate with biopsy and HPR ).
+
+@highlight
+* Few small enhancing lymph nodes in RIF mesentery - Likely to be Metastatic.
+
+@highlight
+* Another well - defined partly calcified mesenteric hypodense lesion in the right periumbilical region abutting the duodenum at D2 - D3 junction- Possibly Calcified metastatic lymph node mass.
+
+@highlight
+* Tiny ground glass nodules in lateral basal segment of right lower lobe - Metastasis needs to be ruled out.

@@ -1,0 +1,111 @@
+DISCHARGE SUMMARY
+
+DIGESTIVE DISEASE CENTRE
+
+Date of Admission : 25/07/2018 10:51:27
+Date of Discharge: 28/07/2018
+
+Final Diagnosis:
+HEPATOCELLULAR CARCINOMA
+RECTAL POLYP
+HEMORRHOIDS
+SYSTEMIC HYPERTENSION
+MODERATE CONCENTRIC LVH
+DYSLIPIDEMIA
+
+History And Examination
+
+Male presented with complaints of bleeding PR and generalised weakness since 2 months.
+1 episode of vomiting 2 days before admission.
+No history of fever, pain abdomen, altered bowel habits or decrease urine output.
+
+Known case of hypertension since 2010 on Tab Cilacar 5 1-0-0 and Tab Nebica 5 1-0-0.
+Known case of IHD was on Tab Aztolet 75mg 1-0-0, stopped 5 days back.
+Known case of dyslipidemia was on Atorvastatin.
+USG abdomen done outside showed 2.7 cm SOL of liver.
+History of RTA 2003, operated for multiple fractures in both arms.
+
+On examination
+Conscious, oriented
+Vitals stable
+No pallor, icterus, clubbing, lymphadenopathy or pedal edema
+P/A - Soft, non tender, no organomegaly
+Respiratory system - bilaterally clear
+CVS -S1 S2+
+
+
+Discussions :
+male presented with complaints of bleeding PR and Anemia.
+Colonoscopy on 26-07-2018 showed colonic diverticulae, rectal polyp and haemorrhoids.
+Biopsy taken from rectal polyp (report awaited).
+In view of SOL of liver he underwent MRI upper abdomen which was showing a space occupying lesion in segment 7/8 of liver, suggestive of Hepatocellular carcinoma.
+In view of his low hemoglobin 2 units of PRBC was transfused.
+Gastro surgery consultation was given for hemorrhoids and advice follow up.
+Now the patient is clinically stable hence discharged with following medications.
+
+Advice on Discharge
+
+Tab. Nebicard 45mg 1-0-0
+Tab. Cilacar 10mg  1/2-0-0
+Syp. Lactihep 30ml at night
+Cremadiet powder  2tsp at night
+Tab. Chymoral forte 1-1-1
+Tab. Dolo 650mg _1 tab if needed
+Glycerin + Magsulf pack 4 times a day
+Tab. Nitrest 10mg 0-0-1
+
+To follow up in Gastroenterology and GI Surgery OPD after 1 week with AFP, hemoglobin, creatinine LFT and PT INR reports.
+To collect biopsy report after 1 week
+
+Plan: Radio frequency ablation and biopsy of SOL liver next follow up.
+
+URGENT CARE: Report immediately to hospital if patient has bleeding per rectum, altered bowel habit or pain abdomen.
+
+
+@highlight
+DISCHARGE SUMMARY
+
+@highlight
+Date of Admission : 25/07/2018 10:51:27
+Date of Discharge: 28/07/2018
+
+@highlight
+Final Diagnosis:
+HEPATOCELLULAR CARCINOMA
+RECTAL POLYP
+HEMORRHOIDS
+SYSTEMIC HYPERTENSION
+MODERATE CONCENTRIC LVH
+DYSLIPIDEMIA
+
+@highlight
+male presented with complaints of bleeding PR and Anemia.
+
+@highlight
+Colonoscopy on 26-07-2018 showed colonic diverticulae, rectal polyp and haemorrhoids.
+
+@highlight
+Biopsy taken from rectal polyp (report awaited).
+
+@highlight
+In view of SOL of liver he underwent MRI upper abdomen which was showing a space occupying lesion in segment 7/8 of liver, suggestive of Hepatocellular carcinoma.
+
+@highlight
+In view of his low hemoglobin 2 units of PRBC was transfused.
+
+@highlight
+Gastro surgery consultation was given for hemorrhoids and advice follow up.
+
+@highlight
+Now the patient is clinically stable hence discharged with following medications.
+
+@highlight
+Advice on Discharge:
+Tab. Nebicard 45mg 1-0-0
+Tab. Cilacar 10mg  1/2-0-0
+Syp. Lactihep 30ml at night
+Cremadiet powder  2tsp at night
+Tab. Chymoral forte 1-1-1
+Tab. Dolo 650mg _1 tab if needed
+Glycerin + Magsulf pack 4 times a day
+Tab. Nitrest 10mg 0-0-1

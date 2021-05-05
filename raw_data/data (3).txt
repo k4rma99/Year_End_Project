@@ -1,0 +1,88 @@
+Reported On: 24/01/2020 09:34 PM
+
+Immunofixation-quantitative Serum
+SERUM, PROTEIN ELECTROPHORESIS
+(Serum)
+
+Total Protein
+Observed: 5.49 g/dL(Normal)
+Biological Reference Interval: 6.2-8.1
+(Biuret)
+
+Serum Albumin 
+Observed: 2.36 g/dL(Normal) 
+Biological Reference Interval: 3.57-5.42
+
+Alpha 1 Globulin 
+Observed: 0.57 g/dL(High) 
+Biological Reference Interval: 0.19-0.40
+
+Alpha 2 Globulin 
+Observed: 0.87 g/dL(Normal) 
+Biological Reference Interval: 0.45-0.96
+
+Beta 1 Globulin 
+Observed: 0.31 g/dL(Normal) 
+Biological Reference Interval: 0.30-0.59
+
+Beta 2 Globulin 
+Observed: 0.30 g/dL(Normal) 
+Biological Reference Interval: 0.20-0.53
+
+Gamma Globulin 
+Observed: 1.09 g/dL(Normal) 
+Biological Reference Interval: 0.71-1.54
+
+Albumin, Globulin Ratio 
+Observed: 0.75(Low) 
+Biological Reference Interval: 1.1-2.2
+
+Comment: DISTORTED GAMMA REGION SEEN. KINDLY SEE SERUM IMMUNOFIXATION RESULT.
+
+Interpretation :
+1. Serum protein electrophoresis is commonly used to identify multiple myeloma & related disorders.
+
+2. Electrophoresis is a method of separating proteins based on their physical properties & the pattern is dependant on the
+
+@highlight
+Reported On: 24/01/2020 09:34 PM
+
+@highlight
+Immunofixation-quantitative Serum
+SERUM, PROTEIN ELECTROPHORESIS
+(Serum)
+
+@highlight
+Total Protein
+Observed: 5.49 g/dL(Normal)
+
+@highlight
+Serum Albumin 
+Observed: 2.36 g/dL(Normal) 
+
+@highlight
+Alpha 1 Globulin 
+Observed: 0.57 g/dL(High) 
+
+@highlight
+Alpha 2 Globulin 
+Observed: 0.87 g/dL(Normal) 
+
+@highlight
+Beta 1 Globulin 
+Observed: 0.31 g/dL(Normal) 
+
+@highlight
+Beta 2 Globulin 
+Observed: 0.30 g/dL(Normal) 
+
+@highlight
+Gamma Globulin 
+Observed: 1.09 g/dL(Normal) 
+
+@highlight
+Albumin, Globulin Ratio 
+Observed: 0.75(Low) 
+
+@highlight
+Comment: DISTORTED GAMMA REGION SEEN. KINDLY SEE SERUM IMMUNOFIXATION RESULT.

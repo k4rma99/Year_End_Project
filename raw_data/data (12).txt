@@ -1,0 +1,85 @@
+ADVANCED IMMUNOPHENOTYPING LAB
+FLOW CYTOMETRY REPORT
+
+Specimen type : Bone marrow
+Test requested : Comprehensive leukemia panel
+Referring Department: Clinical Hematology
+Reported date : 24.01.2020
+Issue date : 25.01.2020
+
+Specimen description : Bone marrow sample collected on sodium heparin vacutainer was received
+Time point of sample collected : Diagnosis v/ follow up / post induction
+Specimen yield and viability : adequate
+Absolute number of nucleated cells : 6,250/mm^3
+Methodology : lyse, wash and leucocytes staining.
+Antibodies used : CD45, CD3, CD4, CD5, CD7, CD10, CD11b, CD13, CD19, CD20, CD33,
+CD34, CD117, CD56, CD79a, MPO, HLADR (Beckman Coulter).
+Instrument/software : BC DxFLEX (6C, 2 laser), CytExpert 2.0.
+Total events acquired : 20,000 cells/tube
+Gating strategy : CD45/side scatter
+
+Immunophenotyping analysis (6 color leukemia panel)
+
+Expression of CD markers were determined on 26 % of CD45 bright population
+
+CD3 59.7%
+CD4 31.5%
+CD5 66.3%
+CD7 79.6%
+CD10 1.5%
+CD11b 37.5%
+CD13 0.4%
+CD19 16.3%
+CD20 15.8%
+CD33 1.3%
+CD34, 0.1%
+CD117 0.1%
+CD56 20.9%
+cCD79a 19.2%
+MPO 2.4%
+HLADR 20.8%
+
+Descriptive summary: 26% of CD45 bright population (lymphocytes) were gated expressing T, B and NK cells.
+
+Impression: Non - diagnostic. Kindly correlate with morphology and clinical parameters.
+
+Correlation with clinical, cytogenetic and molecular parameters advised.
+
+Reference: WHO classification of tumors of hematopoietic and lymphoid tissues, revised 4th edition, 2017.
+
+Note: Flow cytometric analysis assist in clinical diagnosis and disease monitoring. The report has to be correlated with clinical and
+morphological parameters. The limitations of this result include quality of the specimen and limits of sensitivity.
+
+@highlight
+Test requested : Comprehensive leukemia panel
+Immunophenotyping analysis (6 color leukemia panel)
+
+@highlight
+Issue date : 25.01.2020
+
+@highlight
+Specimen description : Bone marrow sample collected on sodium heparin vacutainer was received
+
+@highlight
+CD3 59.7%
+CD4 31.5%
+CD5 66.3%
+CD7 79.6%
+CD10 1.5%
+CD11b 37.5%
+CD13 0.4%
+CD19 16.3%
+CD20 15.8%
+CD33 1.3%
+CD34, 0.1%
+CD117 0.1%
+CD56 20.9%
+cCD79a 19.2%
+MPO 2.4%
+HLADR 20.8%
+
+@highlight
+Descriptive summary: 26% of CD45 bright population (lymphocytes) were gated expressing T, B and NK cells.
+
+@highlight
+Impression: Non - diagnostic. Kindly correlate with morphology and clinical parameters.

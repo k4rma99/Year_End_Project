@@ -1,0 +1,48 @@
+Date 
+25/01/2020 17:14:48
+
+FLOW CYTOMETRY REPORT
+
+Flow cytometric analysis shows a cell cluster with low SSC and moderate CD45 expression. The gated B-Lymphoid
+cells (68.0% of all events) show the following expression pattern:
+
+Moderate expression of ICD200, CD45, CD19, CD23, HLADR
+Heterogeneous expression of CD20 :
+
+And rest of the markers are negative.
+CD19 gated cells are 2.5% positive for CD38 and 12.4% positive for ZAP-70.
+
+Impression
+
+The scatter parameters and antigen expression profile as studied by flow cytometry of the sample are suggestive of
+Chronic Lymphocytic Leukemia, B-CLL .
+
+Correlation with clinical, cytogenetic and other hematological parameters is advised.
+Comment :- Recommendations for further testing are as follows:
+
+Advised CLL prognostic panel by FISH, IgVH Somatic Hypermutation assay by PCR and sangers sequencing
+for further prognostication .
+
+@highlight
+Date 
+25/01/2020 17:14:48
+
+@highlight
+FLOW CYTOMETRY REPORT
+
+@highlight
+Flow cytometric analysis shows a cell cluster with low SSC and moderate CD45 expression.
+
+@highlight
+Moderate expression of ICD200, CD45, CD19, CD23, HLADR
+
+@highlight
+Heterogeneous expression of CD20 
+
+@highlight
+CD19 gated cells are 2.5% positive for CD38 and 12.4% positive for ZAP-70.
+
+@highlight
+The scatter parameters and antigen expression profile as studied by flow cytometry of the sample are suggestive of
+Chronic Lymphocytic Leukemia, B-CLL .
+

@@ -1,0 +1,100 @@
+Report Dt. Tm. 25/01/2020 17:14:48
+
+FLOW CYTOMETRY REPORT
+
+CLL Diagnostic Panel (Comprehensive)
+
+T-cell Markers
+
+CD5 98.3 Dim Positive
+
+B-cell Markers 
+
+CD19 100.0 Moderate Positive
+
+CD20 91.8 Heterogeneous Positive
+CD79b : 0.5 -
+
+CD23 : 67.3 Moderate Positive
+CD200 924 Moderate Positive
+FMC-7 0.2 - Negative
+
+SIgM 0.1 -Negative
+
+Kappa 0.7 -Negative
+Lambda 0.3 -Negative
+CD19+ZAP-70 12.4 N/A Negative
+CD19+CD5 98.3 N/A Negative
+CD19+CD38 2.5 N/A Negative
+Others 
+
+CD10 0.1 - Negative
+
+CD25 0.8 - Negative
+
+CD38 2.5 - Negative
+
+CDi Ic 12.1 - Negative
+
+CD103 0.1 - Negative
+
+CD45 99.2 Moderate Positive
+HLADR 92.8 Moderate Positive
+
+Interpretation of Observations ,
+Specimen Type: - Bone marrow sample showed TLC - 1,54,100 cells/ul.
+
+Instrument / Software: BD FACS Canto Il / BD FACS DIVA
+Cell Preparation Method: Stain - Lyse- Wash
+SSC Vs CD19/CD20 Gating.
+
+@highlight
+Report Dt. Tm. 25/01/2020 17:14:48
+
+@highlight
+FLOW CYTOMETRY REPORT
+
+@highlight
+CLL Diagnostic Panel (Comprehensive)
+
+@highlight
+
+T-cell Markers
+
+CD5 98.3 Dim Positive
+
+B-cell Markers 
+
+CD19 100.0 Moderate Positive
+
+CD20 91.8 Heterogeneous Positive
+CD79b : 0.5 -
+
+CD23 : 67.3 Moderate Positive
+CD200 924 Moderate Positive
+FMC-7 0.2 - Negative
+
+SIgM 0.1 -Negative
+
+Kappa 0.7 -Negative
+Lambda 0.3 -Negative
+CD19+ZAP-70 12.4 N/A Negative
+CD19+CD5 98.3 N/A Negative
+CD19+CD38 2.5 N/A Negative
+Others 
+
+CD10 0.1 - Negative
+
+CD25 0.8 - Negative
+
+CD38 2.5 - Negative
+
+CDi Ic 12.1 - Negative
+
+CD103 0.1 - Negative
+
+CD45 99.2 Moderate Positive
+HLADR 92.8 Moderate Positive
+
+@highlight
+Specimen Type: - Bone marrow sample showed TLC - 1,54,100 cells/ul.

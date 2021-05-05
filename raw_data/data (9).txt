@@ -1,0 +1,24 @@
+LAB REPORT
+
+Sample Date : 07/08/2018
+Report Date : 07/08/2018 12:53:39
+
+CLINICAL PATHOLOGY
+
+HEMOGLOBIN - Lower than Normal
+9.7 gm/dL
+Normal value: 11.0- 18.0
+
+
+@highlight
+LAB REPORT
+
+@highlight
+Sample Date : 07/08/2018
+Report Date : 07/08/2018 12:53:39
+
+@highlight
+CLINICAL PATHOLOGY
+
+@highlight
+HEMOGLOBIN - Lower than Normal
