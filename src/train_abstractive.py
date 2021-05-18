@@ -322,7 +322,18 @@ def train_abs_single(args, device_id):
     else:
         optim = [model_builder.build_optim(args, model, checkpoint)]
 
+    for param in model.parameters():
+      param.requires_grad = False
+
+    for param in model.generator.parameters():
+      param.requires_grad = True
+
+    # for name,param in model.named_parameters():
+    #   if param.requires_grad == True:
+    #     logger.info(name)
     logger.info(model)
+    
+    
 
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True, cache_dir=args.temp_dir)
     symbols = {'BOS': tokenizer.vocab['[unused0]'], 'EOS': tokenizer.vocab['[unused1]'],
