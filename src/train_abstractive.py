@@ -325,6 +325,9 @@ def train_abs_single(args, device_id):
     for param in model.parameters():
       param.requires_grad = False
 
+    for param in model.decoder.parameters():
+        param.requires_grad = True
+
     for param in model.generator.parameters():
       param.requires_grad = True
 
