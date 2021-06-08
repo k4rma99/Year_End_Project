@@ -4,13 +4,40 @@ import pytesseract
 from PIL import Image
 from pdf2image import convert_from_path
 import shutil
+import subprocess
+import shlex
+
 
 app = Flask(__name__)
 
 UPLOAD_FOLDER = "./static/pdfs/"
-ALLOWED_EXTENSIONS = set(['pdf'])
+ALLOWED_EXTENSIONS = set(['pdf' , 'txt'])
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['ALLOWED_EXTENSIONS'] = ALLOWED_EXTENSIONS
+
+
+SOURCE_PATH = "./static/output/output.txt"
+DEST_PATH = "./PreSumm/raw_data/1.txt"
+OUTPUT_PATH = "./PreSumm/results/cnndm.-1.candidate"
+
+def summarize():
+
+    cmd = "python train.py -task abs -mode test_text -test_from ../models/model_step_148200.pt -log_file ../logs/val_abs_bert_medrec -text_src ../raw_data/1.txt -visible_gpus -1"
+
+    shutil.copy(SOURCE_PATH, DEST_PATH)
+    cmd = shlex.split(cmd)
+
+    os.chdir("./Presumm/src/")
+    
+    process = subprocess.run(cmd , stdout=subprocess.PIPE, universal_newlines=True, stderr=subprocess.STDOUT)
+
+    if process.returncode == 0:
+        os.chdir("../../")
+        shutil.copy(OUTPUT_PATH , SOURCE_PATH)
+        return 1
+    else:
+        return process.stdout
+
 
 def convert_ocr(path , dpi):
 
@@ -50,37 +77,56 @@ def convert_ocr(path , dpi):
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    #return render_template("index.html")
+    return render_template('index.html')
 
 @app.route("/" , methods=["GET" , "POST"])
 def scan():
     if request.method == "POST":
 
         f = request.files["file"]
-
-        # id =  base64.b64encode("%s %s" %(time.time(), f.filename)).replace('=', '')
-        # filename = id + ".pdf"
-        #path = os.path.dirname(os.path.abspath(__file__))
-        f.save(UPLOAD_FOLDER + f.filename)
-        path = UPLOAD_FOLDER + f.filename
-
-        convert_ocr(path , 500)
-
-        return redirect(url_for("out"))
-
-    #out = open('./app/static/output/output.txt' , "wb")
-    #highlights = "\n\n@highlights\n@highlights\n@highlights\n@highlights\n@highlights"
+        ext = f.filename.rsplit('.', 1)[1].lower()
         
-    #return render_template("scanned_output.html" , scanned = out.read() + highlights)
+        if ext == 'pdf':
+
+            # id =  base64.b64encode("%s %s" %(time.time(), f.filename)).replace('=', '')
+            # filename = id + ".pdf"
+            #path = os.path.dirname(os.path.abspath(__file__))
+            f.save(UPLOAD_FOLDER + f.filename)
+            path = UPLOAD_FOLDER + f.filename
+
+            convert_ocr(path , 500)
+
+            return redirect(url_for("out"))
+
+        elif ext == 'txt':
+            f.filename='output.txt'
+            f.save('./static/output/' + f.filename)
+
+            return redirect(url_for("out"))
+        #out = open('./app/static/output/output.txt' , "wb")            
+        else:
+            return "invalid Extension"
+        #return render_template("scanned_output.html" , scanned = out.read() + highlights)
     return "None"
-    #return out.read() if out.read() else "None"
+        #return out.read() if out.read() else "None"
 
 @app.route("/scan")
 def out():
-    highlights = "\n\n@highlights\n\n@highlights\n\n@highlights\n\n@highlights\n\n@highlights\n\n"
     with open('./static/output/output.txt', "rb") as f:
-        data = f.read().decode("utf-8") + highlights
-        return render_template('scanned_output.html', scanned=data) 
+        data = f.read().decode("utf-8")
+        return render_template('scanned_output.html', scanned=data)
+
+@app.route("/output" , methods=["GET" , "POST"])
+def final():
+    if request.method == "POST":
+        r = summarize()
+        if r == 1:
+            with open('../app/static/output/output.txt', "rb") as f:
+                data = f.read().decode("utf-8")
+                return render_template('summary.html', summary=data)
+        else:
+            return r
 
 if __name__ == "__main__":
     app.run(debug=True)
